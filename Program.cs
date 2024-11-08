@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Pozdrav iz aplikacije od Jakov Trbara");
+Console.WriteLine("Pozdrav iz aplikacije od 0165083614 ");
